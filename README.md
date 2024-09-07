@@ -1,4 +1,6 @@
 **Aplicación de Escritorio para la Gestión de Catálogos de Películas**
+
+
 Descripción General del Proyecto
 La aplicación es una herramienta diseñada para gestionar catálogos de películas, permitiendo a los usuarios almacenar, visualizar, editar y eliminar registros de películas de manera eficiente. Está desarrollada en Java utilizando NetBeans como entorno de desarrollo, y emplea SQLite como base de datos local para almacenar la información.
 
